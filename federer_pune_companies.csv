@@ -1,0 +1,26 @@
+Company,City,Segment,Revenue,C1,C2,C3,C4,C5,C6,Total Score,Band
+Enzene Biosciences,Pune,Biotech,<300Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Privi Speciality Chemicals,Pune,Specialty Chemicals,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Aether Industries,Pune,Custom Synthesis,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Deepak Fertilisers,Pune,Performance Chemicals,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Forbes Marshall,Pune,Instrumentation,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Dorf Ketal Chemicals,Pune,Specialty Chemicals,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Emcure Pharmaceuticals,Pune,Complex Pharma,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Endress+Hauser India,Pune,Instrumentation,100-300Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Gennova Biopharma,Pune,Biotech,<300Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Garware Technical Fibres,Pune,Specialty Materials,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Hikal,Pune,Custom Synthesis,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Fine Organic Industries,Pune,Performance Chemicals,300-500Cr,Strong,Strong,Strong,Strong,Strong,Strong,100.0,A
+Kan Biosys,Pune,Agri Biotech,<100Cr,Strong,Strong,Strong,Strong,Strong,Moderate,90.0,A
+Rossari Biotech,Pune,Specialty Chemicals,300-500Cr,Strong,Strong,Strong,Moderate,Strong,Strong,90.0,A
+BVG Life Sciences,Pune,Biotech,<300Cr,Strong,Strong,Strong,Strong,Strong,Moderate,90.0,A
+Chemetall India,Pune,Specialty Chemicals,100-300Cr,Strong,Strong,Strong,Strong,Strong,Moderate,90.0,A
+EPL Limited,Pune,Specialty Materials,300-500Cr,Strong,Strong,Strong,Moderate,Strong,Strong,90.0,A
+Micro Inks,Pune,Performance Chemicals,<300Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+Anshul Life Sciences,Pune,Pharma,<300Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+Kusumgar Corporates,Pune,Specialty Chemicals,<100Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+Praxis Life Sciences,Pune,Pharma Chemicals,<100Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+Unichem Laboratories,Pune,Pharma,<300Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+NGL Fine-Chem,Pune,Pharma Chemicals,100-300Cr,Strong,Strong,Moderate,Strong,Strong,Moderate,77.5,B
+Mapro Industries,Pune,Food Ingredients,<300Cr,Strong,Strong,Moderate,Moderate,Strong,Strong,77.5,B
+Ajinkya Chemtech,Pune,Specialty Chemicals,<50Cr,Strong,Strong,Moderate,Moderate,Strong,Moderate,67.5,B
